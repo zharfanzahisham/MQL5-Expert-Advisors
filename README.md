@@ -3,4 +3,5 @@ This repository contains a list of expert advisors (trading bots) written in MQL
 
 ## How To Run
 Refer to the video here
+
 [![YouTube Thumnail](https://img.youtube.com/vi/4idb47g2FV4/0.jpg)](https://www.youtube.com/watch?v=4idb47g2FV4)
